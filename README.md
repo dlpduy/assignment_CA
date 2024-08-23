@@ -1,2 +1,2 @@
 # Assignment Computer Architecture
-Bai tap ca nhan - CO2007
+Bai tap nhom - ca nhan mon Kien Truc May Tinh
