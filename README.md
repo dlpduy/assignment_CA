@@ -1,3 +1,5 @@
 # Assignment Computer Architecture
-Group: Dividing two numbers by Assembly
-individual: Calculating π with the Monte Carlo
+
+Group: Dividing two numbers by Assembly.
+
+Individual: Calculating π with the Monte Carlo.
