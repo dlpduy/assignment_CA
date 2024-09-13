@@ -1,2 +1,3 @@
 # Assignment Computer Architecture
-Bai tap nhom - ca nhan mon Kien Truc May Tinh
+Group: Dividing two numbers by Assembly
+individual: Calculating π with the Monte Carlo
